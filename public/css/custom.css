@@ -1,0 +1,12 @@
+.custom-btn {
+    background-color: #000000; /* ボタンの背景色を指定 */
+    color: #ffffff; /* ボタンのテキスト色を指定 */
+    border: 2px; /* ボタンのボーダーを削除 */
+    padding: 10px 20px; /* ボタンの余白を調整 */
+    border-radius: 5px; /* ボタンの角丸を指定 */
+    font-size: 16px; /* ボタンのフォントサイズを指定 */
+}
+
+.custom-btn:hover {
+    background-color: #858585; /* ホバー時の背景色を指定 */
+}
